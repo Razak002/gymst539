@@ -6,6 +6,7 @@ import Feature from './component/Feature';
 import Header from './component/home';
 import Navbar from './component/Navbar';
 import Offer from './component/Offer';
+import Footer from './component/Footer';
 function App() {
   return (
     <div className="App">
@@ -15,6 +16,7 @@ function App() {
       <Offer />
       <About />
       <Contect />
+      <Footer />
     
     </div>
   );

@@ -390,9 +390,9 @@ nav .menu-btn,
   list-style: circle;
 }
 .about-text h1 {
-  font-size: 2rem;
+  font-size: 1rem;
   color: #ff1414;
-  font-weight: 50;
+  font-weight: 40;
   margin: 0px;
   padding: 0px;
 }
@@ -670,4 +670,21 @@ nav .menu-btn,
     width: 100%;
     height: 400px;
   }
+}
+
+.footer{
+  color: white;
+  display: flex;
+
+  
+}
+
+.footer>p{
+  color: red;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  font-size: smaller;
+  
 }
