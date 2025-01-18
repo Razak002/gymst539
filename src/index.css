@@ -266,8 +266,10 @@ nav .menu-btn,
 
 .pr-heading {
   text-align: center;
+  font-weight: 900;
   font-family: "Lato";
-  width: 600px;
+  flex-wrap: wrap;
+  width: 500px;
   position: absolute;
   left: 50%;
   top: 55%;

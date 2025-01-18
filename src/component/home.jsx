@@ -5,7 +5,7 @@ import React from 'react'
         <div id='main'>
             <div className='pr-heading'>
                 <h2>STEP UP YOUR</h2>
-                <h1><span>FITNESS</span>WITH US</h1>
+                <h2><span>FITNESS  </span>NOW</h2>
                 <p className='details'>Buils Your Body And Fitness With Professional Touch</p>
                 <div className='header-btns'>
                     <a href='#' className='header-btn'>JOIN US</a>
